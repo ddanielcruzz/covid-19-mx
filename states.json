@@ -1,0 +1,110 @@
+{
+  "states": [
+    {
+      "id": "AGU",
+      "lat": 21.88234,
+      "lng": -102.282586,
+      "name": "Aguascalientes"
+    },
+    {
+      "id": "BCN",
+      "lat": 32.650022,
+      "lng": -115.461069,
+      "name": "Baja California"
+    },
+    {
+      "id": "BCS",
+      "lat": 24.144373,
+      "lng": -110.300501,
+      "name": "Baja California Sur"
+    },
+    { "id": "CAM", "lat": 19.843857, "lng": -90.525535, "name": "Campeche" },
+    { "id": "CHP", "lat": 16.759727, "lng": -93.113081, "name": "Chiapas" },
+    { "id": "CHH", "lat": 28.633333, "lng": -106.083333, "name": "Chihuahua" },
+    {
+      "id": "CMX",
+      "lat": 19.434167,
+      "lng": -99.138611,
+      "name": "Ciudad de México"
+    },
+    {
+      "id": "COA",
+      "lat": 25.423213,
+      "lng": -101.005299,
+      "name": "Coahuila de Zaragoza"
+    },
+    { "id": "COL", "lat": 19.249972, "lng": -103.727137, "name": "Colima" },
+    { "id": "DUR", "lat": 24.019419, "lng": -104.66069, "name": "Durango" },
+    { "id": "GUA", "lat": 21.018268, "lng": -101.256979, "name": "Guanajuato" },
+    { "id": "GRO", "lat": 17.550599, "lng": -99.505783, "name": "Guerrero" },
+    { "id": "HID", "lat": 20.117362, "lng": -98.742915, "name": "Hidalgo" },
+    { "id": "JAL", "lat": 20.666823, "lng": -103.391824, "name": "Jalisco" },
+    { "id": "MEX", "lat": 19.287311, "lng": -99.644979, "name": "México" },
+    {
+      "id": "MIC",
+      "lat": 19.70179,
+      "lng": -101.183962,
+      "name": "Michoacán de Ocampo"
+    },
+    { "id": "MOR", "lat": 18.933725, "lng": -99.228488, "name": "Morelos" },
+    { "id": "NAY", "lat": 21.509505, "lng": -104.895691, "name": "Nayarit" },
+    { "id": "NLE", "lat": 25.675065, "lng": -100.318465, "name": "Nuevo León" },
+    { "id": "OAX", "lat": 17.065418, "lng": -96.723645, "name": "Oaxaca" },
+    { "id": "PUE", "lat": 19.037926, "lng": -98.203457, "name": "Puebla" },
+    { "id": "QUE", "lat": 20.600014, "lng": -100.399715, "name": "Querétaro" },
+    {
+      "id": "ROO",
+      "lat": 18.514126,
+      "lng": -88.303813,
+      "name": "Quintana Roo"
+    },
+    {
+      "id": "SLP",
+      "lat": 22.149825,
+      "lng": -100.979161,
+      "name": "San Luis Potosí"
+    },
+    { "id": "SIN", "lat": 24.790325, "lng": -107.387816, "name": "Sinaloa" },
+    { "id": "SON", "lat": 29.102602, "lng": -110.977324, "name": "Sonora" },
+    { "id": "TAB", "lat": 17.986893, "lng": -92.930277, "name": "Tabasco" },
+    { "id": "TAM", "lat": 23.741744, "lng": -99.145993, "name": "Tamaulipas" },
+    { "id": "TLA", "lat": 19.319055, "lng": -98.19982, "name": "Tlaxcala" },
+    { "id": "VER", "lat": 19.54386, "lng": -96.92155, "name": "Veracruz" },
+    { "id": "YUC", "lat": 20.975368, "lng": -89.616959, "name": "Yucatán" },
+    { "id": "ZAC", "lat": 22.769005, "lng": -102.571563, "name": "Zacatecas" }
+  ],
+  "reports": [
+    { "placeId": "AGU", "confirmed": 4, "recovered": 0, "death": 0 },
+    { "placeId": "BCN", "confirmed": 4, "recovered": 0, "death": 0 },
+    { "placeId": "BCS", "confirmed": 0, "recovered": 0, "death": 0 },
+    { "placeId": "CAM", "confirmed": 0, "recovered": 0, "death": 0 },
+    { "placeId": "CHP", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "CHH", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "CMX", "confirmed": 31, "recovered": 0, "death": 1 },
+    { "placeId": "COA", "confirmed": 1, "recovered": 1, "death": 0 },
+    { "placeId": "COL", "confirmed": 1, "recovered": 0, "death": 0 },
+    { "placeId": "DUR", "confirmed": 4, "recovered": 0, "death": 1 },
+    { "placeId": "GUA", "confirmed": 14, "recovered": 1, "death": 0 },
+    { "placeId": "GRO", "confirmed": 4, "recovered": 0, "death": 0 },
+    { "placeId": "HID", "confirmed": 4, "recovered": 0, "death": 0 },
+    { "placeId": "JAL", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "MEX", "confirmed": 28, "recovered": 0, "death": 0 },
+    { "placeId": "MIC", "confirmed": 0, "recovered": 0, "death": 0 },
+    { "placeId": "MOR", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "NAY", "confirmed": 0, "recovered": 0, "death": 0 },
+    { "placeId": "NLE", "confirmed": 29, "recovered": 0, "death": 0 },
+    { "placeId": "OAX", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "PUE", "confirmed": 14, "recovered": 0, "death": 0 },
+    { "placeId": "QUE", "confirmed": 11, "recovered": 0, "death": 0 },
+    { "placeId": "ROO", "confirmed": 11, "recovered": 0, "death": 0 },
+    { "placeId": "SLP", "confirmed": 7, "recovered": 0, "death": 0 },
+    { "placeId": "SIN", "confirmed": 3, "recovered": 1, "death": 0 },
+    { "placeId": "SON", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "TAB", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "TAM", "confirmed": 2, "recovered": 0, "death": 0 },
+    { "placeId": "TLA", "confirmed": 0, "recovered": 0, "death": 0 },
+    { "placeId": "VER", "confirmed": 4, "recovered": 0, "death": 0 },
+    { "placeId": "YUC", "confirmed": 13, "recovered": 0, "death": 0 },
+    { "placeId": "ZAC", "confirmed": 0, "recovered": 0, "death": 0 }
+  ]
+}
